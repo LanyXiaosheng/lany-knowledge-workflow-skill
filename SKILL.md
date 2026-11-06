@@ -86,3 +86,5 @@ description: 在已有或新建的本地知识库中建立采集、加工、检�
 
 新库样例和调用方式见 [README.md](README.md)。
 处理链、索引、调用样例与恢复方法见 [方法笔记](references/methods.md)。
+
+需要可填写模板、逐步操作、完整虚构案例及验收清单时，按需读取[操作手册](references/workbook.md)。
